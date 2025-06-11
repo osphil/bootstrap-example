@@ -1,0 +1,14 @@
+$primary: #ff4000;
+$secondary: #00ff40;
+$success: #00ffff;
+
+$border-radius: 0rem;
+
+
+.btn:hover {
+    color: #f1f1f1;
+    background-color: #350681;
+    border-color: #350681;
+  }
+  
+@import "../bootstrap/scss/bootstrap.scss";
